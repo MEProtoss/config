@@ -1,3 +1,1 @@
-# config
-
-archlinux config
+ranger config
